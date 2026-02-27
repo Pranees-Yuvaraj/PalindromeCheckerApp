@@ -1,6 +1,1 @@
-\# Palindrome Checker App
-
-
-
-This project contains multiple Use Cases for checking palindromes.
-
+Convert a string to a char array and compare characters using two pointers to check palindrome efficiently.
